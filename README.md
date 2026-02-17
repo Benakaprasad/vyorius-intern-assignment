@@ -121,7 +121,8 @@ Start the frontend:
 npm run dev
 ```
 
-> App runs on **http://localhost:3000**
+> App runs local on **http://localhost:3000**
+> App runs on render **https://vyorius-intern-assignment.onrender.com**
 
 ---
 
